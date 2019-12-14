@@ -1,0 +1,6 @@
+class lab235{
+static int a=10;
+public static void main(Strings[] args){
+System.out.println(a);
+}
+}

@@ -1,0 +1,14 @@
+class test06{
+public static void main(String[] args){
+}
+}
+class A{
+static{
+System.out.println("A static block");
+}
+}
+class B{
+static{
+System.out.println("B static block");
+}
+}
