@@ -1,0 +1,11 @@
+class lab02{
+int id;
+String name;
+
+public static void main(String []args){
+lab02 LL=new lab02();
+LL.id;
+LL.name;
+System.out.println(name+" "+id);
+}
+}

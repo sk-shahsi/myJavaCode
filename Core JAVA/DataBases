@@ -1,0 +1,17 @@
+show database;
+ to show all database prsent,
+ 
+**********************************************
+
+create database <name>;
+
+ to create new database,
+
+*************************************************
+
+create table <tableName>(collNmae Type (Size),collNmae Type (Size),.................); 
+
+to create table with full description like tableName,collNmae as per requriment,
+ 
+*************************************************************************************************************
+

@@ -1,0 +1,16 @@
+class Lab255{
+public static void main(String args[]){
+Hello h=new Hello();
+//System.out.println("b-----------"+ A.a);
+}
+}
+class A{
+{
+ int b=10;
+System.out.println(a);
+}
+{
+
+System.out.println(a);
+}
+}

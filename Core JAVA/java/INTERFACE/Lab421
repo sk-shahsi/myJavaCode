@@ -1,0 +1,9 @@
+interface inner1{
+int ab=10;
+}
+class hii impliments inner1{
+void show(){
+System.out.println("hiiii");
+}
+}
+class B extends hii hii implements inner1{}

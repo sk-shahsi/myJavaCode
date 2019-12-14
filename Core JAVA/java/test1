@@ -1,0 +1,5 @@
+class test1 extends object{
+public static void main(String[] args){
+System.out.println("main");
+}
+}

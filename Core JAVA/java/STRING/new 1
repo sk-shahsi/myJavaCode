@@ -1,0 +1,15 @@
+class order{
+String orderid;
+int totalitem;
+double price;
+public order(String orderid,int totalitem,double price)
+{
+this.orderid=orderid;
+this.totalitem=totalitem;
+this.price=price;
+}
+public order(){
+}
+public String toString(){
+return id+" "+totalitem+" "+price;
+public 

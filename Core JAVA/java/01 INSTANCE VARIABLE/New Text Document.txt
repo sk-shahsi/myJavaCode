@@ -1,0 +1,11 @@
+class Lab226{
+public static void main(String [] args){
+Hello H=new Hello();
+System.out.println(H.a);
+H.a=99;
+System.out.println(H.a);
+}
+}
+class Hello{
+int a;
+}

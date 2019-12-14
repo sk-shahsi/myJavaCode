@@ -1,0 +1,12 @@
+class Lab280{
+public static void main(String[] args){
+hello.show()
+}
+}
+class hello{
+	static show(int a,int b)
+ {
+ System.out.println(a%b);
+System.out.println(a);
+}
+}  

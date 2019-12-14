@@ -1,0 +1,10 @@
+class Lab228{
+public static void main(String [] args){
+new Hello()=99
+System.out.println(new hello().a);
+}
+}
+class Hello{
+int a;
+}
+ 
